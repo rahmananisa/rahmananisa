@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Her Power Project
 
-- 🌱 I’m currently learning **learning Frontend, Backend, UI/UX**
+- 🌱 I’m currently learning **Frontend, Backend, UI/UX**
 
 - 👯 I’m looking to collaborate on **JavaScript**
 
