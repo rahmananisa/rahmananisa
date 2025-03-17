@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmananisa" alt="rahmananisa" /></a> </p>
 
-- 🔭 I’m currently working on [Working on](Her Power Project)
+- 🔭 I’m currently working on Her Power Project
 
 - 🌱 I’m currently learning **learning Frontend, Backend, UI/UX**
 
